@@ -20,14 +20,6 @@ body {
   /* Prevents the image from repeating */
 }
 
-.footer {
-  text-align: center;
-  padding: 10px;
-  font-size: 0.9em;
-  color: #ddd;
-  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
-}
-
 .container {
   background-color: rgba(44, 62, 80, 0.6);
   padding: 40px;
@@ -38,6 +30,14 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.1);
   width: 85%;
   max-width: 700px;
+}
+
+.footer {
+  text-align: center;
+  padding: 10px;
+  font-size: 0.9em;
+  color: #ddd;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8);
 }
 
 h1 {
